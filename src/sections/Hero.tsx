@@ -32,7 +32,7 @@ export const Hero = () => {
             Let's Build Your AI Future
             </h1>
             <p className="text-xl text-[#8b8b8b] tracking-tight mt-6">
-            Celebrate AI’s future with aXtrLabs! We craft custom-built generative AI solutions that fit your business perfectly. Let’s transform your challenges into AI-powered success stories.
+            Celebrate AI’s future with aXtrLabs! We craft custom-built generative AI solutions that fit your business perfectly. Let&apos;s transform your challenges into AI-powered success stories.
             </p>
             <div className="flex gap-1 items-center mt-[30px]"><a href="mailto:info@axtr.in">
               
