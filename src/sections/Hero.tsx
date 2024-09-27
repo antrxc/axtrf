@@ -29,10 +29,10 @@ export const Hero = () => {
               AXTR is here
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-white to-[#6b6b6b] text-transparent bg-clip-text mt-6">
-            Let's Build Your AI Future
+            Let&apos;s Build Your AI Future
             </h1>
             <p className="text-xl text-[#8b8b8b] tracking-tight mt-6">
-            Celebrate AI’s future with aXtrLabs! We craft custom-built generative AI solutions that fit your business perfectly. Let&apos;s transform your challenges into AI-powered success stories.
+            Celebrate AI&apos;s future with aXtrLabs! We craft custom-built generative AI solutions that fit your business perfectly. Let&apos;s transform your challenges into AI-powered success stories.
             </p>
             <div className="flex gap-1 items-center mt-[30px]"><a href="mailto:info@axtr.in">
               
