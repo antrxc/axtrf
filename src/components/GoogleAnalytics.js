@@ -4,7 +4,7 @@ import ReactGA from 'react-ga';
 
 const GoogleAnalytics = () => {
     useEffect(() => {
-        ReactGA.initialize('G-1G3PK2F25P');
+        ReactGA.initialize('9777726267');
     }, []);
 
     return null;
